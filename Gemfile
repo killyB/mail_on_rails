@@ -48,6 +48,9 @@ gem 'omniauth-google'
 gem 'omniauth-oauth2'
 gem 'oauth2'
 
+#for NET::HTTP API 
+gem 'faraday', '~> 0.9.1'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
